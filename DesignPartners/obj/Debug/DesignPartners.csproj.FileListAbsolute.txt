@@ -1,0 +1,7 @@
+C:\git\DesignPartners\DesignPartners\obj\Debug\DesignPartners.csprojAssemblyReference.cache
+C:\git\DesignPartners\DesignPartners\obj\Debug\DesignPartners.csproj.CoreCompileInputs.cache
+C:\git\DesignPartners\DesignPartners\bin\Debug\DesignPartners.exe.config
+C:\git\DesignPartners\DesignPartners\bin\Debug\DesignPartners.exe
+C:\git\DesignPartners\DesignPartners\bin\Debug\DesignPartners.pdb
+C:\git\DesignPartners\DesignPartners\obj\Debug\DesignPartners.exe
+C:\git\DesignPartners\DesignPartners\obj\Debug\DesignPartners.pdb
