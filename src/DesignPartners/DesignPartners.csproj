@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>DesignPartners</RootNamespace>
+    <AssemblyName>DesignPartners</AssemblyName>
+    <Description>Gang of Four design patterns as architecture partners for modern .NET.</Description>
+    <Authors>Leandro Carlini Mingorance</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+</Project>
