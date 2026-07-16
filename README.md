@@ -5,6 +5,9 @@
 [![CI](https://github.com/lcarlini/DesignPartners/actions/workflows/ci.yml/badge.svg)](https://github.com/lcarlini/DesignPartners/actions/workflows/ci.yml)
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-22c55e.svg)](LICENSE)
+[![Pages](https://img.shields.io/badge/GitHub%20Pages-live-a67dff?logo=github)](https://lcarlini.github.io/DesignPartners/)
+
+**📖 [Explore the interactive overview →](https://lcarlini.github.io/DesignPartners/)**
 
 A curated C# catalog of **creational**, **structural**, and **behavioral**
 design patterns. Each pattern is framed as a design partner you can call when
